@@ -1,6 +1,7 @@
-OFF
+ON
 owner
 RENGE
 wahyu
+
 
 

@@ -1,7 +1,6 @@
-ON
-YP12345
-RABAN
-KEY3XYZ
+OFF
+owner
 RENGE
 wahyu
+
 

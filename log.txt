@@ -2,6 +2,3 @@ ON
 owner
 RENGE
 wahyu
-
-
-
